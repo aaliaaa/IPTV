@@ -11,5 +11,17 @@ source_urls = [
     "https://raw.githubusercontent.com/yuanzl77/IPTV/main/直播/ipv6.txt",
     "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
     "https://github.com/YueChan/Live/blob/main/IPTV.txt",
+    "https://iptv.b2og.com/txt/fmml_dv6.txt",
+    "https://iptv.b2og.com/txt/ycl_iptv.txt",
+    "https://iptv.b2og.com/txt/y_g.txt",
+    "https://iptv.b2og.com/txt/j_home.txt",
+    "https://iptv.b2og.com/txt/j_iptv.txt",
+    "https://iptv.b2og.com/txt/o_all.txt",
+    "https://iptv.b2og.com/txt/o_cn.txt",
+    "https://iptv.b2og.com/txt/o_s_cn.txt",
+    "https://iptv.b2og.com/txt/o_s_cn_cgtn.txt",
+    "https://iptv.b2og.com/txt/cn_p.txt",
+    "https://iptv.b2og.com/txt/cn_n.txt",
+    "https://iptv.b2og.com/txt/cn.txt",
     "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt"
 ]
