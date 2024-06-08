@@ -130,7 +130,5 @@ RTHK34,
 台湾番薯台,
 香港面包台,
 澳门卫视,
-大爱,
-大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
 
