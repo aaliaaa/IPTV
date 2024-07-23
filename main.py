@@ -124,7 +124,14 @@ def filter_source_urls(template_file):
                 all_channels[category].extend(channel_list)
             else:
                 all_channels[category] = channel_list
-
+    if len(all_channels)>0:
+       #print(all_channels)
+       with open("allchannel.txt", "w",encoding="utf-8") as f:
+           for category, channel_list in all_channels.items():
+                f.write(f"{category},#genre#\n")
+                for online_channel_name, online_channel_url in channel_list:
+                    f.write(f"{online_channel_name},{online_channel_url}\n")
+           f.close
     # Match the fetched channels with the template
     matched_channels = match_channels(template_channels, all_channels)
 
